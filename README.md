@@ -14,6 +14,7 @@ By calling the source code of SQLite, we can operate SQLite database and realize
  3. New VC + + solution and new project with vs2015
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201104135433608.png#pic_center)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
 
  4. Put the SQLite folder, header file and source file into the project
 
